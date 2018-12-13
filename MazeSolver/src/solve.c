@@ -1,3 +1,6 @@
+/* Harriet Odiete
+*  Maze Solver Program
+*/
 #include "stack.h"
 
 #define MAXSIZE 5000

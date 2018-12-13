@@ -1,5 +1,5 @@
 /* Harriet Odiete
-*  Linked List Struture for student
+*  Stack Data Structure Implementation
 */
 #include "stack.h"
 
